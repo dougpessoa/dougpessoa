@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/-React%20Native-8dc891?style=flat-square&logo=react&logoColor=black" alt="React Hooks">
+  <img src="https://img.shields.io/badge/-React%20Hooks-8dc891?style=flat-square&logo=react&logoColor=black" alt="React Hooks">
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled-Components">
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Styled-Components">
 </p>
