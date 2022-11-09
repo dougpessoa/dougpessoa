@@ -40,3 +40,7 @@
 <p align="center">
   Apaixonado pela tecnologia e por impactar pessoas pelo seu código. <br /> Transformar ideias em código é uma arte e essa deve ser aprendida e ensinada para todos. 
 </p>
+
+<hr/>
+<br/>
+<h3 align="center">Ah, ultimamente estou pouco usando aqui<br/>Porque na empresa que eu trabalho usamos Bitbucket!<br/>:)</h3>
