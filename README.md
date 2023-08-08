@@ -38,9 +38,13 @@
 
 
 <p align="center">
-  Apaixonado pela tecnologia e por impactar pessoas pelo seu código. <br /> Transformar ideias em código é uma arte e essa deve ser aprendida e ensinada para todos. 
+  pt-br: Apaixonado pela tecnologia e por impactar pessoas pelo seu código. <br /> Transformar ideias em código é uma arte e essa deve ser aprendida e ensinada para todos.  <br/>
+  en: Passionate about technology and impacting people through your code.<br/>Transforming ideas into code is an art, and this should be learned and taught to everyone.</h6>
 </p>
 
 <hr/>
 <br/>
-<h3 align="center">Ah, ultimamente estou pouco usando aqui<br/>Porque na empresa que eu trabalho usamos Bitbucket!<br/>:)</h3>
+<h3 align="center">
+ pt-br: Ah, ultimamente estou pouco usando aqui porque na empresa que eu trabalho usamos Bitbucket!<br/>
+ en: Oh, lately I've been using it less here because at the company I work for, we use Bitbucket!
+</h3>
