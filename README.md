@@ -32,4 +32,3 @@ Discover more about my professional journey at <br> https://douglaspessoa.dev.
     You can find all my skills on <br/> <a href="https://www.douglaspessoa.dev/skills">https://www.douglaspessoa.dev/skills</a>
   </p>
 <hr />
-<p style="font-size: 10px;" align="center">In my actual work at Sensedia, we use Bitbucket. This the reason my contribution section has little contributions. =)</p>
