@@ -8,13 +8,14 @@
   <h2 align="center">
     About me
   </h2>
-  <p align="justify">
-    I am an enthusiast about positively impacting people through my code. Graduated with a Bachelor's
-degree in Computer Science and with 5 years of experience in software development, I have worked as
-a freelancer on projects for small companies, from conception to production, as well as on permanent
-contracts with other companies. I am always dedicated to sharing knowledge with the team, aiming to
-increase our collective productivity. Moreover, I am constantly in search of new technologies to
-efficiently solve everyday challenges.
+  <p align="center">
+Enthusiastically embracing the world of computing, I hold a bachelor’s degree in computer science and bring to the table 6 years of exhilarating experience in the realm of software development. My professional journey has been a dynamic exploration, immersing myself in a rich tapestry of technologies, including TypeScript, JavaScript, Java, Spring, React.js, React Native, Node.js, Docker, and AWS. Beyond technical prowess, my expertise extends to agile methodologies such as Scrum, Kanban, and Jira, complemented by a deep understanding of databases like MongoDB, MySQL, and PostgreSQL.
+<br><br>
+In my current capacity as a Front-end Developer, I play a pivotal role in a highly collaborative team. Within this dynamic ecosystem, collaboration with the Product Owner, QA, and UI/UX Designer is key as we collectively refine and innovate on new features. I take pride in my adept bug triaging and correction skills, coupled with a consistent commitment to pair programming alongside a team of 3 frontend developers—underscoring our team's ethos of continuous learning.
+<br><br>
+Fueled by an insatiable curiosity, my quest for knowledge extends beyond technical horizons. I actively seek out challenges that allow me to apply my expertise in a meaningful way. This commitment isn't limited to technical proficiency; I am equally dedicated to cultivating meaningful interpersonal connections. Teaching and leading others increasingly fuel my passion.
+<br><br>
+Discover more about my professional journey at <br> https://douglaspessoa.dev. 
   </p>
   <hr />
   <h3 align="center">Skills</h3>
